@@ -1,0 +1,48 @@
+.booking{
+    background: linear-gradient(rgba(0, 0, 0, 0.582), rgba(0, 0, 0, 0.582)), url('../../Image/Rectangle\ 1.png');
+    min-height: 670px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.spot-information{
+    margin-top: 50px;
+}
+.spot-title{
+    color:white;
+}
+.spot-text{
+    color:white;
+    text-align: justify;
+}
+.destination{
+    background-color: #ffffff;
+    padding: 20px 30px;
+}
+.destination input{
+    margin-top: -5px;
+}
+.destination p {
+    font-weight: bold;
+    margin-top: 10px;
+    font-weight: 500;
+}
+input{
+    height: 35px;
+    border:none;
+    background-color: #F2F2F2;
+    outline:none;
+    width: 100%;
+    font-weight: bold;
+    padding: 10px;
+}
+.submit-btn{
+    margin: 20px 0 !important;
+    color:black;
+    background-color: orange;
+}
+.submit-btn:hover{
+    color: black;
+    background-color: darkorange;
+    text-decoration: none;
+}

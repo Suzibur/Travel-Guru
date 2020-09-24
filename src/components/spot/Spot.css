@@ -1,0 +1,19 @@
+.photo-frame{
+    position: relative;
+    cursor: pointer;
+}
+.photo-details{
+    position: absolute;
+    margin-top: 50%;
+    width: 100%;
+    top: 0;
+    color: white;
+    text-align: center;
+}
+.booking-btn{
+    color:black;
+}
+.booking-btn:hover{
+    text-decoration: none;
+    color: black;
+}

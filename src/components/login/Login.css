@@ -1,0 +1,30 @@
+.login{
+    margin-top: 50px;
+    padding: 20px 40px;
+    border: 1px solid gray;
+    text-align: center;
+}
+.login input{
+    margin: 10px 0;
+    background-color: transparent;
+    border-bottom: 2px solid gray;
+}
+.login input::placeholder{
+    color:black;
+}
+.submit_btn{
+    background-color: orange !important;
+    border: none !important;
+}
+p{
+    font-size: 14px;
+}
+span{
+    color:orange;
+    font-weight: bold;
+    cursor: pointer;
+}
+.social-icon{
+    cursor: pointer;
+    width: 30px;
+}

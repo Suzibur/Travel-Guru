@@ -1,0 +1,25 @@
+.logo{
+    width: 120px;
+}
+.menu-item{
+    color: white !important;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.menu-item{
+    text-decoration: none;
+}
+.toggle{
+    background-color: orange;
+}
+.login_btn{
+    background-color: orange;
+    color: white;
+    font: bold;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.login_btn:hover{
+    color: white;
+    background-color: darkorange;
+}
